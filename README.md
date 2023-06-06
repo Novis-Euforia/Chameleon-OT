@@ -1,15 +1,17 @@
 
 # ABAP Transport Order for Chameleon
-## Prequisitos
-SAP APPL con versión minima 600 o S4CORE cualquier versión.
+## Prerequisites
+SAP APPL with minimum version 600 or S4CORE any version.
 
-SAP_UI con versión minima 740
+SAP_UI with minimum version 740
 
-SAP_BASIS con versión minima 740
+SAP_BASIS with min. version 740
 
-## Instrucciones de Import
-Descargar el fichero con las ordenes de transporte Chameleon V1.10.zip
+## Import instructions
+Download the Chameleon V1.10.zip file with the Chameleon transport requests.
 
-Importar los ficheros en los correspondientes directorios de import del TMS en el application Server: /usr/sap/trans/data y /usr/sap/trans/cofiles.
+Import the files into the corresponding import directories of the TMS on the application Server: /usr/sap/trans/data and /usr/sap/trans/cofiles.
 
-Importar la orden desde la transacción STMS con las siguientes opciones.
+Import the command from the STMS transaction with the following options.
+
+![Import Options](https://raw.githubusercontent.com/fabiocerioni/ChameleonABAP/main/Import%20options.png)
