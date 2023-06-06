@@ -14,4 +14,4 @@ Import the files into the corresponding import directories of the TMS on the app
 
 Import the command from the STMS transaction with the following options.
 
-![Import Options](https://raw.githubusercontent.com/fabiocerioni/ChameleonABAP/main/Import%20options.png)
+![Import Options](https://raw.githubusercontent.com/Novis-Euforia/Chameleon-OT/main/Import%20options%20new.png)
