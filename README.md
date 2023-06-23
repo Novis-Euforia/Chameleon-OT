@@ -15,4 +15,4 @@ Import the files into the corresponding import directories of the TMS on the app
 From STMS Add the transport order S4HK901651 to the import Queue using Extras->Other Request Add
 Import the command from the STMS transaction with the following options.
 
-![Import Options](https://raw.githubusercontent.com/Novis-Euforia/Chameleon-OT/main/Import%20options%20new.png)
+![Import Options](https://raw.githubusercontent.com/Novis-Euforia/Chameleon-OT/main/ot%20import.png)
